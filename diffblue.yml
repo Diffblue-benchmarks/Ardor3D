@@ -16,19 +16,7 @@ units:
       sourceFile: com/ardor3d/input/gesture/event/PinchGestureEvent.java
     # Child of PinchInterpreter.class
     # Child Coverage: Unknown %
-    - dir: ardor3d-core/out/production/classes
-      file: com/ardor3d/input/gesture/event/PinchGestureEvent.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/event/PinchGestureEvent.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
     - dir: ardor3d-core/build/classes/java/main
-      file: com/ardor3d/input/gesture/touch/TouchHistory.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/touch/TouchHistory.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
-    - dir: ardor3d-core/out/production/classes
       file: com/ardor3d/input/gesture/touch/TouchHistory.class
       sourceDir: ardor3d-core/src/main/java
       sourceFile: com/ardor3d/input/gesture/touch/TouchHistory.java
@@ -40,19 +28,7 @@ units:
       sourceFile: com/ardor3d/math/Rectangle2.java
     # Child of PinchInterpreter.class
     # Child Coverage: Unknown %
-    - dir: ardor3d-math/out/production/classes
-      file: com/ardor3d/math/Rectangle2.class
-      sourceDir: ardor3d-math/src/main/java
-      sourceFile: com/ardor3d/math/Rectangle2.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
     - dir: ardor3d-core/build/classes/java/main
-      file: com/ardor3d/input/gesture/event/AbstractGestureEvent.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/event/AbstractGestureEvent.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
-    - dir: ardor3d-core/out/production/classes
       file: com/ardor3d/input/gesture/event/AbstractGestureEvent.class
       sourceDir: ardor3d-core/src/main/java
       sourceFile: com/ardor3d/input/gesture/event/AbstractGestureEvent.java
@@ -64,25 +40,7 @@ units:
       sourceFile: com/ardor3d/input/gesture/touch/InterpreterUtils.java
     # Child of PinchInterpreter.class
     # Child Coverage: Unknown %
-    - dir: ardor3d-core/out/production/classes
-      file: com/ardor3d/input/gesture/touch/InterpreterUtils.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/touch/InterpreterUtils.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
-    - dir: ardor3d-core/out/production/classes
-      file: com/ardor3d/input/gesture/touch/PinchInterpreter.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/touch/PinchInterpreter.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
     - dir: ardor3d-core/build/classes/java/main
-      file: com/ardor3d/input/gesture/touch/AbstractTouchInterpreter.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/touch/AbstractTouchInterpreter.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
-    - dir: ardor3d-core/out/production/classes
       file: com/ardor3d/input/gesture/touch/AbstractTouchInterpreter.class
       sourceDir: ardor3d-core/src/main/java
       sourceFile: com/ardor3d/input/gesture/touch/AbstractTouchInterpreter.java
@@ -92,18 +50,6 @@ units:
       file: com/ardor3d/input/gesture/touch/TouchStatus.class
       sourceDir: ardor3d-core/src/main/java
       sourceFile: com/ardor3d/input/gesture/touch/TouchStatus.java
-    # Child of PinchInterpreter.class
-    # Child Coverage: Unknown %
-    - dir: ardor3d-core/out/production/classes
-      file: com/ardor3d/input/gesture/touch/TouchStatus.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/touch/TouchStatus.java
-  # Target Coverage: Unknown %
-  - target:
-    - dir: ardor3d-core/out/production/classes
-      file: com/ardor3d/input/gesture/touch/PinchInterpreter.class
-      sourceDir: ardor3d-core/src/main/java
-      sourceFile: com/ardor3d/input/gesture/touch/PinchInterpreter.java
     # Child of PinchInterpreter.class
     # Child Coverage: Unknown %
     - dir: ardor3d-core/build/classes/java/main
